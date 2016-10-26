@@ -1,0 +1,418 @@
+[{
+    "name": "Palmas",
+    "isStateCapital": true
+}, {
+    "name": "Abreul\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Aguiarn\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Alian\u00e7a do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Almas",
+    "isStateCapital": false
+}, {
+    "name": "Alvorada",
+    "isStateCapital": false
+}, {
+    "name": "Anan\u00e1s",
+    "isStateCapital": false
+}, {
+    "name": "Angico",
+    "isStateCapital": false
+}, {
+    "name": "Aparecida do Rio Negro",
+    "isStateCapital": false
+}, {
+    "name": "Aragominas",
+    "isStateCapital": false
+}, {
+    "name": "Araguacema",
+    "isStateCapital": false
+}, {
+    "name": "Aragua\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Aragua\u00edna",
+    "isStateCapital": false
+}, {
+    "name": "Araguan\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Araguatins",
+    "isStateCapital": false
+}, {
+    "name": "Arapoema",
+    "isStateCapital": false
+}, {
+    "name": "Arraias",
+    "isStateCapital": false
+}, {
+    "name": "Augustin\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Aurora do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Axix\u00e1 do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Baba\u00e7ul\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Bandeirantes do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Barra do Ouro",
+    "isStateCapital": false
+}, {
+    "name": "Barrol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Bernardo Say\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jesus do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Brasil\u00e2ndia do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Brejinho de Nazar\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Buriti do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Cachoeirinha",
+    "isStateCapital": false
+}, {
+    "name": "Campos Lindos",
+    "isStateCapital": false
+}, {
+    "name": "Cariri do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Carmol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Carrasco Bonito",
+    "isStateCapital": false
+}, {
+    "name": "Caseara",
+    "isStateCapital": false
+}, {
+    "name": "Centen\u00e1rio",
+    "isStateCapital": false
+}, {
+    "name": "Chapada da Natividade",
+    "isStateCapital": false
+}, {
+    "name": "Chapada de Areia",
+    "isStateCapital": false
+}, {
+    "name": "Colinas do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Colm\u00e9ia",
+    "isStateCapital": false
+}, {
+    "name": "Combinado",
+    "isStateCapital": false
+}, {
+    "name": "Concei\u00e7\u00e3o do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Couto Magalh\u00e3es",
+    "isStateCapital": false
+}, {
+    "name": "Cristal\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Crix\u00e1s do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Darcin\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Dian\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Divin\u00f3polis do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Dois Irm\u00e3os do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Duer\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Esperantina",
+    "isStateCapital": false
+}, {
+    "name": "F\u00e1tima",
+    "isStateCapital": false
+}, {
+    "name": "Figueir\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Filad\u00e9lfia",
+    "isStateCapital": false
+}, {
+    "name": "Formoso do Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "Fortaleza do Taboc\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Goianorte",
+    "isStateCapital": false
+}, {
+    "name": "Goiatins",
+    "isStateCapital": false
+}, {
+    "name": "Guara\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Gurupi",
+    "isStateCapital": false
+}, {
+    "name": "Ipueiras",
+    "isStateCapital": false
+}, {
+    "name": "Itacaj\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Itaguatins",
+    "isStateCapital": false
+}, {
+    "name": "Itapiratins",
+    "isStateCapital": false
+}, {
+    "name": "Itapor\u00e3 do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Ja\u00fa do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Juarina",
+    "isStateCapital": false
+}, {
+    "name": "Lagoa da Confus\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Lagoa do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Lajeado",
+    "isStateCapital": false
+}, {
+    "name": "Lavandeira",
+    "isStateCapital": false
+}, {
+    "name": "Lizarda",
+    "isStateCapital": false
+}, {
+    "name": "Luzin\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Marian\u00f3polis do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Mateiros",
+    "isStateCapital": false
+}, {
+    "name": "Mauril\u00e2ndia do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Miracema do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Miranorte",
+    "isStateCapital": false
+}, {
+    "name": "Monte do Carmo",
+    "isStateCapital": false
+}, {
+    "name": "Monte Santo do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Muricil\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Natividade",
+    "isStateCapital": false
+}, {
+    "name": "Nazar\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Nova Olinda",
+    "isStateCapital": false
+}, {
+    "name": "Nova Rosal\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Novo Acordo",
+    "isStateCapital": false
+}, {
+    "name": "Novo Alegre",
+    "isStateCapital": false
+}, {
+    "name": "Novo Jardim",
+    "isStateCapital": false
+}, {
+    "name": "Oliveira de F\u00e1tima",
+    "isStateCapital": false
+}, {
+    "name": "Palmeirante",
+    "isStateCapital": false
+}, {
+    "name": "Palmeiras do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Palmeir\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Para\u00edso do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Paran\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Pau D'Arco",
+    "isStateCapital": false
+}, {
+    "name": "Pedro Afonso",
+    "isStateCapital": false
+}, {
+    "name": "Peixe",
+    "isStateCapital": false
+}, {
+    "name": "Pequizeiro",
+    "isStateCapital": false
+}, {
+    "name": "Pindorama do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Piraqu\u00ea",
+    "isStateCapital": false
+}, {
+    "name": "Pium",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Alta do Bom Jesus",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Alta do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Porto Alegre do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Porto Nacional",
+    "isStateCapital": false
+}, {
+    "name": "Praia Norte",
+    "isStateCapital": false
+}, {
+    "name": "Presidente Kennedy",
+    "isStateCapital": false
+}, {
+    "name": "Pugmil",
+    "isStateCapital": false
+}, {
+    "name": "Recursol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Riachinho",
+    "isStateCapital": false
+}, {
+    "name": "Rio da Concei\u00e7\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Rio dos Bois",
+    "isStateCapital": false
+}, {
+    "name": "Rio Sono",
+    "isStateCapital": false
+}, {
+    "name": "Sampaio",
+    "isStateCapital": false
+}, {
+    "name": "Sandol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Santa F\u00e9 do Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "Santa Maria do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Santa Rita do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Santa Rosa do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Santa Tereza do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Santa Terezinha do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Bento do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o F\u00e9lix do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Miguel do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Salvador do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Sebasti\u00e3o do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Val\u00e9rio",
+    "isStateCapital": false
+}, {
+    "name": "Silvan\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "S\u00edtio Novo do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Sucupira",
+    "isStateCapital": false
+}, {
+    "name": "Taguatinga",
+    "isStateCapital": false
+}, {
+    "name": "Taipas do Tocantins",
+    "isStateCapital": false
+}, {
+    "name": "Talism\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Tocant\u00ednia",
+    "isStateCapital": false
+}, {
+    "name": "Tocantin\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Tupirama",
+    "isStateCapital": false
+}, {
+    "name": "Tupiratins",
+    "isStateCapital": false
+}, {
+    "name": "Wanderl\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Xambio\u00e1",
+    "isStateCapital": false
+}]

@@ -1,0 +1,880 @@
+[{
+    "name": "Abdon Batista",
+    "isStateCapital": false
+}, {
+    "name": "Abelardo Luz",
+    "isStateCapital": false
+}, {
+    "name": "Agrol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Agron\u00f4mica",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1gua Doce",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1guas de Chapec\u00f3",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1guas Frias",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1guas Mornas",
+    "isStateCapital": false
+}, {
+    "name": "Alfredo Wagner",
+    "isStateCapital": false
+}, {
+    "name": "Alto Bela Vista",
+    "isStateCapital": false
+}, {
+    "name": "Anchieta",
+    "isStateCapital": false
+}, {
+    "name": "Angelina",
+    "isStateCapital": false
+}, {
+    "name": "Anita Garibaldi",
+    "isStateCapital": false
+}, {
+    "name": "Anit\u00e1polis",
+    "isStateCapital": false
+}, {
+    "name": "Ant\u00f4nio Carlos",
+    "isStateCapital": false
+}, {
+    "name": "Api\u00fana",
+    "isStateCapital": false
+}, {
+    "name": "Arabut\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Araquari",
+    "isStateCapital": false
+}, {
+    "name": "Ararangu\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Armaz\u00e9m",
+    "isStateCapital": false
+}, {
+    "name": "Arroio Trinta",
+    "isStateCapital": false
+}, {
+    "name": "Arvoredo",
+    "isStateCapital": false
+}, {
+    "name": "Ascurra",
+    "isStateCapital": false
+}, {
+    "name": "Atalanta",
+    "isStateCapital": false
+}, {
+    "name": "Aurora",
+    "isStateCapital": false
+}, {
+    "name": "Balne\u00e1rio Arroio do Silva",
+    "isStateCapital": false
+}, {
+    "name": "Balne\u00e1rio Barra do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Balne\u00e1rio Cambori\u00fa",
+    "isStateCapital": false
+}, {
+    "name": "Balne\u00e1rio Gaivota",
+    "isStateCapital": false
+}, {
+    "name": "Balne\u00e1rio Pi\u00e7arras",
+    "isStateCapital": false
+}, {
+    "name": "Bandeirante",
+    "isStateCapital": false
+}, {
+    "name": "Barra Bonita",
+    "isStateCapital": false
+}, {
+    "name": "Barra Velha",
+    "isStateCapital": false
+}, {
+    "name": "Bela Vista do Toldo",
+    "isStateCapital": false
+}, {
+    "name": "Belmonte",
+    "isStateCapital": false
+}, {
+    "name": "Benedito Novo",
+    "isStateCapital": false
+}, {
+    "name": "Bigua\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Blumenau",
+    "isStateCapital": false
+}, {
+    "name": "Bocaina do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jardim da Serra",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jesus",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jesus do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Bom Retiro",
+    "isStateCapital": false
+}, {
+    "name": "Bombinhas",
+    "isStateCapital": false
+}, {
+    "name": "Botuver\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Bra\u00e7o do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Bra\u00e7o do Trombudo",
+    "isStateCapital": false
+}, {
+    "name": "Brun\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Brusque",
+    "isStateCapital": false
+}, {
+    "name": "Ca\u00e7ador",
+    "isStateCapital": false
+}, {
+    "name": "Caibi",
+    "isStateCapital": false
+}, {
+    "name": "Calmon",
+    "isStateCapital": false
+}, {
+    "name": "Cambori\u00fa",
+    "isStateCapital": false
+}, {
+    "name": "Campo Alegre",
+    "isStateCapital": false
+}, {
+    "name": "Campo Belo do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Campo Er\u00ea",
+    "isStateCapital": false
+}, {
+    "name": "Campos Novos",
+    "isStateCapital": false
+}, {
+    "name": "Canelinha",
+    "isStateCapital": false
+}, {
+    "name": "Canoinhas",
+    "isStateCapital": false
+}, {
+    "name": "Cap\u00e3o Alto",
+    "isStateCapital": false
+}, {
+    "name": "Capinzal",
+    "isStateCapital": false
+}, {
+    "name": "Capivari de Baixo",
+    "isStateCapital": false
+}, {
+    "name": "Catanduvas",
+    "isStateCapital": false
+}, {
+    "name": "Caxambu do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Celso Ramos",
+    "isStateCapital": false
+}, {
+    "name": "Cerro Negro",
+    "isStateCapital": false
+}, {
+    "name": "Chapad\u00e3o do Lageado",
+    "isStateCapital": false
+}, {
+    "name": "Chapec\u00f3",
+    "isStateCapital": false
+}, {
+    "name": "Cocal do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Conc\u00f3rdia",
+    "isStateCapital": false
+}, {
+    "name": "Cordilheira Alta",
+    "isStateCapital": false
+}, {
+    "name": "Coronel Freitas",
+    "isStateCapital": false
+}, {
+    "name": "Coronel Martins",
+    "isStateCapital": false
+}, {
+    "name": "Correia Pinto",
+    "isStateCapital": false
+}, {
+    "name": "Corup\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Crici\u00fama",
+    "isStateCapital": false
+}, {
+    "name": "Cunha Por\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Cunhata\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Curitibanos",
+    "isStateCapital": false
+}, {
+    "name": "Descanso",
+    "isStateCapital": false
+}, {
+    "name": "Dion\u00edsio Cerqueira",
+    "isStateCapital": false
+}, {
+    "name": "Dona Emma",
+    "isStateCapital": false
+}, {
+    "name": "Doutor Pedrinho",
+    "isStateCapital": false
+}, {
+    "name": "Entre Rios",
+    "isStateCapital": false
+}, {
+    "name": "Ermo",
+    "isStateCapital": false
+}, {
+    "name": "Erval Velho",
+    "isStateCapital": false
+}, {
+    "name": "Faxinal dos Guedes",
+    "isStateCapital": false
+}, {
+    "name": "Flor do Sert\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Florian\u00f3polis",
+    "isStateCapital": true
+}, {
+    "name": "Formosa do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Forquilhinha",
+    "isStateCapital": false
+}, {
+    "name": "Fraiburgo",
+    "isStateCapital": false
+}, {
+    "name": "Frei Rog\u00e9rio",
+    "isStateCapital": false
+}, {
+    "name": "Galv\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Garopaba",
+    "isStateCapital": false
+}, {
+    "name": "Garuva",
+    "isStateCapital": false
+}, {
+    "name": "Gaspar",
+    "isStateCapital": false
+}, {
+    "name": "Governador Celso Ramos",
+    "isStateCapital": false
+}, {
+    "name": "Gr\u00e3o Par\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Gravatal",
+    "isStateCapital": false
+}, {
+    "name": "Guabiruba",
+    "isStateCapital": false
+}, {
+    "name": "Guaraciaba",
+    "isStateCapital": false
+}, {
+    "name": "Guaramirim",
+    "isStateCapital": false
+}, {
+    "name": "Guaruj\u00e1 do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Guatamb\u00fa",
+    "isStateCapital": false
+}, {
+    "name": "Herval d'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Ibiam",
+    "isStateCapital": false
+}, {
+    "name": "Ibicar\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Ibirama",
+    "isStateCapital": false
+}, {
+    "name": "I\u00e7ara",
+    "isStateCapital": false
+}, {
+    "name": "Ilhota",
+    "isStateCapital": false
+}, {
+    "name": "Imaru\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Imbituba",
+    "isStateCapital": false
+}, {
+    "name": "Imbuia",
+    "isStateCapital": false
+}, {
+    "name": "Indaial",
+    "isStateCapital": false
+}, {
+    "name": "Iomer\u00ea",
+    "isStateCapital": false
+}, {
+    "name": "Ipira",
+    "isStateCapital": false
+}, {
+    "name": "Ipor\u00e3 do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Ipua\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Ipumirim",
+    "isStateCapital": false
+}, {
+    "name": "Iraceminha",
+    "isStateCapital": false
+}, {
+    "name": "Irani",
+    "isStateCapital": false
+}, {
+    "name": "Irati",
+    "isStateCapital": false
+}, {
+    "name": "Irine\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "It\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Itai\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Itaja\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Itapema",
+    "isStateCapital": false
+}, {
+    "name": "Itapiranga",
+    "isStateCapital": false
+}, {
+    "name": "Itapo\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Ituporanga",
+    "isStateCapital": false
+}, {
+    "name": "Jabor\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Jacinto Machado",
+    "isStateCapital": false
+}, {
+    "name": "Jaguaruna",
+    "isStateCapital": false
+}, {
+    "name": "Jaragu\u00e1 do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Jardin\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Joa\u00e7aba",
+    "isStateCapital": false
+}, {
+    "name": "Joinville",
+    "isStateCapital": false
+}, {
+    "name": "Jos\u00e9 Boiteux",
+    "isStateCapital": false
+}, {
+    "name": "Jupi\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Lacerd\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Lages",
+    "isStateCapital": false
+}, {
+    "name": "Laguna",
+    "isStateCapital": false
+}, {
+    "name": "Lajeado Grande",
+    "isStateCapital": false
+}, {
+    "name": "Laurentino",
+    "isStateCapital": false
+}, {
+    "name": "Lauro Muller",
+    "isStateCapital": false
+}, {
+    "name": "Lebon R\u00e9gis",
+    "isStateCapital": false
+}, {
+    "name": "Leoberto Leal",
+    "isStateCapital": false
+}, {
+    "name": "Lind\u00f3ia do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Lontras",
+    "isStateCapital": false
+}, {
+    "name": "Luiz Alves",
+    "isStateCapital": false
+}, {
+    "name": "Luzerna",
+    "isStateCapital": false
+}, {
+    "name": "Macieira",
+    "isStateCapital": false
+}, {
+    "name": "Mafra",
+    "isStateCapital": false
+}, {
+    "name": "Major Gercino",
+    "isStateCapital": false
+}, {
+    "name": "Major Vieira",
+    "isStateCapital": false
+}, {
+    "name": "Maracaj\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Maravilha",
+    "isStateCapital": false
+}, {
+    "name": "Marema",
+    "isStateCapital": false
+}, {
+    "name": "Massaranduba",
+    "isStateCapital": false
+}, {
+    "name": "Matos Costa",
+    "isStateCapital": false
+}, {
+    "name": "Meleiro",
+    "isStateCapital": false
+}, {
+    "name": "Mirim Doce",
+    "isStateCapital": false
+}, {
+    "name": "Modelo",
+    "isStateCapital": false
+}, {
+    "name": "Monda\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Monte Carlo",
+    "isStateCapital": false
+}, {
+    "name": "Monte Castelo",
+    "isStateCapital": false
+}, {
+    "name": "Morro da Fuma\u00e7a",
+    "isStateCapital": false
+}, {
+    "name": "Morro Grande",
+    "isStateCapital": false
+}, {
+    "name": "Navegantes",
+    "isStateCapital": false
+}, {
+    "name": "Nova Erechim",
+    "isStateCapital": false
+}, {
+    "name": "Nova Itaberaba",
+    "isStateCapital": false
+}, {
+    "name": "Nova Trento",
+    "isStateCapital": false
+}, {
+    "name": "Nova Veneza",
+    "isStateCapital": false
+}, {
+    "name": "Novo Horizonte",
+    "isStateCapital": false
+}, {
+    "name": "Orleans",
+    "isStateCapital": false
+}, {
+    "name": "Otac\u00edlio Costa",
+    "isStateCapital": false
+}, {
+    "name": "Ouro",
+    "isStateCapital": false
+}, {
+    "name": "Ouro Verde",
+    "isStateCapital": false
+}, {
+    "name": "Paial",
+    "isStateCapital": false
+}, {
+    "name": "Painel",
+    "isStateCapital": false
+}, {
+    "name": "Palho\u00e7a",
+    "isStateCapital": false
+}, {
+    "name": "Palma Sola",
+    "isStateCapital": false
+}, {
+    "name": "Palmeira",
+    "isStateCapital": false
+}, {
+    "name": "Palmitos",
+    "isStateCapital": false
+}, {
+    "name": "Papanduva",
+    "isStateCapital": false
+}, {
+    "name": "Para\u00edso",
+    "isStateCapital": false
+}, {
+    "name": "Passo de Torres",
+    "isStateCapital": false
+}, {
+    "name": "Passos Maia",
+    "isStateCapital": false
+}, {
+    "name": "Paulo Lopes",
+    "isStateCapital": false
+}, {
+    "name": "Pedras Grandes",
+    "isStateCapital": false
+}, {
+    "name": "Penha",
+    "isStateCapital": false
+}, {
+    "name": "Peritiba",
+    "isStateCapital": false
+}, {
+    "name": "Petrol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Pinhalzinho",
+    "isStateCapital": false
+}, {
+    "name": "Pinheiro Preto",
+    "isStateCapital": false
+}, {
+    "name": "Piratuba",
+    "isStateCapital": false
+}, {
+    "name": "Planalto Alegre",
+    "isStateCapital": false
+}, {
+    "name": "Pomerode",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Alta",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Alta do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Serrada",
+    "isStateCapital": false
+}, {
+    "name": "Porto Belo",
+    "isStateCapital": false
+}, {
+    "name": "Porto Uni\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Pouso Redondo",
+    "isStateCapital": false
+}, {
+    "name": "Praia Grande",
+    "isStateCapital": false
+}, {
+    "name": "Presidente Castello Branco",
+    "isStateCapital": false
+}, {
+    "name": "Presidente Get\u00falio",
+    "isStateCapital": false
+}, {
+    "name": "Presidente Nereu",
+    "isStateCapital": false
+}, {
+    "name": "Princesa",
+    "isStateCapital": false
+}, {
+    "name": "Quilombo",
+    "isStateCapital": false
+}, {
+    "name": "Rancho Queimado",
+    "isStateCapital": false
+}, {
+    "name": "Rio das Antas",
+    "isStateCapital": false
+}, {
+    "name": "Rio do Campo",
+    "isStateCapital": false
+}, {
+    "name": "Rio do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Rio do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Rio dos Cedros",
+    "isStateCapital": false
+}, {
+    "name": "Rio Fortuna",
+    "isStateCapital": false
+}, {
+    "name": "Rio Negrinho",
+    "isStateCapital": false
+}, {
+    "name": "Rio Rufino",
+    "isStateCapital": false
+}, {
+    "name": "Riqueza",
+    "isStateCapital": false
+}, {
+    "name": "Rodeio",
+    "isStateCapital": false
+}, {
+    "name": "Romel\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Salete",
+    "isStateCapital": false
+}, {
+    "name": "Saltinho",
+    "isStateCapital": false
+}, {
+    "name": "Salto Veloso",
+    "isStateCapital": false
+}, {
+    "name": "Sang\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Santa Cec\u00edlia",
+    "isStateCapital": false
+}, {
+    "name": "Santa Helena",
+    "isStateCapital": false
+}, {
+    "name": "Santa Rosa de Lima",
+    "isStateCapital": false
+}, {
+    "name": "Santa Rosa do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Santa Terezinha",
+    "isStateCapital": false
+}, {
+    "name": "Santa Terezinha do Progresso",
+    "isStateCapital": false
+}, {
+    "name": "Santiago do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Santo Amaro da Imperatriz",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Bento do Sul",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Bernardino",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Bonif\u00e1cio",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Carlos",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Cristov\u00e3o do Sul",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Domingos",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Francisco do Sul",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jo\u00e3o Batista",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jo\u00e3o do Itaperi\u00fa",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jo\u00e3o do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jo\u00e3o do Sul",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Joaquim",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Cedro",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Cerrito",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Louren\u00e7o do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Ludgero",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Martinho",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Miguel da Boa Vista",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Miguel do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Pedro de Alc\u00e2ntara",
+    "isStateCapital": false
+}, {
+    "name": "Saudades",
+    "isStateCapital": false
+}, {
+    "name": "Schroeder",
+    "isStateCapital": false
+}, {
+    "name": "Seara",
+    "isStateCapital": false
+}, {
+    "name": "Serra Alta",
+    "isStateCapital": false
+}, {
+    "name": "Sider\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Sombrio",
+    "isStateCapital": false
+}, {
+    "name": "Sul Brasil",
+    "isStateCapital": false
+}, {
+    "name": "Tai\u00f3",
+    "isStateCapital": false
+}, {
+    "name": "Tangar\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Tigrinhos",
+    "isStateCapital": false
+}, {
+    "name": "Tijucas",
+    "isStateCapital": false
+}, {
+    "name": "Timb\u00e9 do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Timb\u00f3",
+    "isStateCapital": false
+}, {
+    "name": "Timb\u00f3 Grande",
+    "isStateCapital": false
+}, {
+    "name": "Tr\u00eas Barras",
+    "isStateCapital": false
+}, {
+    "name": "Treviso",
+    "isStateCapital": false
+}, {
+    "name": "Treze de Maio",
+    "isStateCapital": false
+}, {
+    "name": "Treze T\u00edlias",
+    "isStateCapital": false
+}, {
+    "name": "Trombudo Central",
+    "isStateCapital": false
+}, {
+    "name": "Tubar\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Tun\u00e1polis",
+    "isStateCapital": false
+}, {
+    "name": "Turvo",
+    "isStateCapital": false
+}, {
+    "name": "Uni\u00e3o do Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Urubici",
+    "isStateCapital": false
+}, {
+    "name": "Urupema",
+    "isStateCapital": false
+}, {
+    "name": "Urussanga",
+    "isStateCapital": false
+}, {
+    "name": "Varge\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Vargem",
+    "isStateCapital": false
+}, {
+    "name": "Vargem Bonita",
+    "isStateCapital": false
+}, {
+    "name": "Vidal Ramos",
+    "isStateCapital": false
+}, {
+    "name": "Videira",
+    "isStateCapital": false
+}, {
+    "name": "Vitor Meireles",
+    "isStateCapital": false
+}, {
+    "name": "Witmarsum",
+    "isStateCapital": false
+}, {
+    "name": "Xanxer\u00ea",
+    "isStateCapital": false
+}, {
+    "name": "Xavantina",
+    "isStateCapital": false
+}, {
+    "name": "Xaxim",
+    "isStateCapital": false
+}, {
+    "name": "Zort\u00e9a",
+    "isStateCapital": false
+}]
