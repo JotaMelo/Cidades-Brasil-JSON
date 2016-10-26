@@ -1,0 +1,1383 @@
+[{
+    "name": "Acre",
+    "capital": "Rio Branco",
+    "abbreviation": "AC",
+    "cities": [{
+        "name": "Rio Branco",
+        "isStateCapital": true
+    }, {
+        "name": "Acrel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Assis Brasil",
+        "isStateCapital": false
+    }, {
+        "name": "Brasil\u00e9ia",
+        "isStateCapital": false
+    }, {
+        "name": "Bujari",
+        "isStateCapital": false
+    }, {
+        "name": "Capixaba",
+        "isStateCapital": false
+    }, {
+        "name": "Cruzeiro do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Epitaciol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Feij\u00f3",
+        "isStateCapital": false
+    }, {
+        "name": "Jord\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "M\u00e2ncio Lima",
+        "isStateCapital": false
+    }, {
+        "name": "Manoel Urbano",
+        "isStateCapital": false
+    }, {
+        "name": "Marechal Thaumaturgo",
+        "isStateCapital": false
+    }, {
+        "name": "Pl\u00e1cido de Castro",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Acre",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Walter",
+        "isStateCapital": false
+    }, {
+        "name": "Rodrigues Alves",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rosa do Purus",
+        "isStateCapital": false
+    }, {
+        "name": "Sena Madureira",
+        "isStateCapital": false
+    }, {
+        "name": "Senador Guiomard",
+        "isStateCapital": false
+    }, {
+        "name": "Tarauac\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Xapuri",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Amap\u00e1",
+    "capital": "Macap\u00e1",
+    "abbreviation": "AP",
+    "cities": [{
+        "name": "Macap\u00e1",
+        "isStateCapital": true
+    }, {
+        "name": "Amap\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Cal\u00e7oene",
+        "isStateCapital": false
+    }, {
+        "name": "Cutias",
+        "isStateCapital": false
+    }, {
+        "name": "Ferreira Gomes",
+        "isStateCapital": false
+    }, {
+        "name": "Itaubal",
+        "isStateCapital": false
+    }, {
+        "name": "Laranjal do Jari",
+        "isStateCapital": false
+    }, {
+        "name": "Mazag\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Oiapoque",
+        "isStateCapital": false
+    }, {
+        "name": "Pedra Branca do Amapari",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Grande",
+        "isStateCapital": false
+    }, {
+        "name": "Pracu\u00faba",
+        "isStateCapital": false
+    }, {
+        "name": "Santana",
+        "isStateCapital": false
+    }, {
+        "name": "Serra do Navio",
+        "isStateCapital": false
+    }, {
+        "name": "Tartarugalzinho",
+        "isStateCapital": false
+    }, {
+        "name": "Vit\u00f3ria do Jari",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Amazonas",
+    "capital": "Manaus",
+    "abbreviation": "AM",
+    "cities": [{
+        "name": "Manaus",
+        "isStateCapital": true
+    }, {
+        "name": "Alvar\u00e3es",
+        "isStateCapital": false
+    }, {
+        "name": "Amatur\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Anam\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Anori",
+        "isStateCapital": false
+    }, {
+        "name": "Apu\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Atalaia do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Autazes",
+        "isStateCapital": false
+    }, {
+        "name": "Barcelos",
+        "isStateCapital": false
+    }, {
+        "name": "Barreirinha",
+        "isStateCapital": false
+    }, {
+        "name": "Benjamin Constant",
+        "isStateCapital": false
+    }, {
+        "name": "Beruri",
+        "isStateCapital": false
+    }, {
+        "name": "Boa Vista do Ramos",
+        "isStateCapital": false
+    }, {
+        "name": "Boca do Acre",
+        "isStateCapital": false
+    }, {
+        "name": "Borba",
+        "isStateCapital": false
+    }, {
+        "name": "Caapiranga",
+        "isStateCapital": false
+    }, {
+        "name": "Canutama",
+        "isStateCapital": false
+    }, {
+        "name": "Carauari",
+        "isStateCapital": false
+    }, {
+        "name": "Careiro",
+        "isStateCapital": false
+    }, {
+        "name": "Careiro da V\u00e1rzea",
+        "isStateCapital": false
+    }, {
+        "name": "Coari",
+        "isStateCapital": false
+    }, {
+        "name": "Codaj\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Eirunep\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Envira",
+        "isStateCapital": false
+    }, {
+        "name": "Fonte Boa",
+        "isStateCapital": false
+    }, {
+        "name": "Guajar\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Humait\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Ipixuna",
+        "isStateCapital": false
+    }, {
+        "name": "Iranduba",
+        "isStateCapital": false
+    }, {
+        "name": "Itacoatiara",
+        "isStateCapital": false
+    }, {
+        "name": "Itamarati",
+        "isStateCapital": false
+    }, {
+        "name": "Itapiranga",
+        "isStateCapital": false
+    }, {
+        "name": "Japur\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Juru\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Juta\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "L\u00e1brea",
+        "isStateCapital": false
+    }, {
+        "name": "Manacapuru",
+        "isStateCapital": false
+    }, {
+        "name": "Manaquiri",
+        "isStateCapital": false
+    }, {
+        "name": "Manicor\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Mara\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Mau\u00e9s",
+        "isStateCapital": false
+    }, {
+        "name": "Nhamund\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Olinda do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Air\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Aripuan\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Parintins",
+        "isStateCapital": false
+    }, {
+        "name": "Pauini",
+        "isStateCapital": false
+    }, {
+        "name": "Presidente Figueiredo",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Preto da Eva",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Isabel do Rio Negro",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio do I\u00e7\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Gabriel da Cachoeira",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Paulo de Oliven\u00e7a",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Sebasti\u00e3o do Uatum\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Silves",
+        "isStateCapital": false
+    }, {
+        "name": "Tabatinga",
+        "isStateCapital": false
+    }, {
+        "name": "Tapau\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Tef\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Tonantins",
+        "isStateCapital": false
+    }, {
+        "name": "Uarini",
+        "isStateCapital": false
+    }, {
+        "name": "Urucar\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Urucurituba",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Par\u00e1",
+    "capital": "Bel\u00e9m",
+    "abbreviation": "PA",
+    "cities": [{
+        "name": "Bel\u00e9m",
+        "isStateCapital": true
+    }, {
+        "name": "Abaetetuba",
+        "isStateCapital": false
+    }, {
+        "name": "Abel Figueiredo",
+        "isStateCapital": false
+    }, {
+        "name": "Acar\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Afu\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "\u00c1gua Azul do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Alenquer",
+        "isStateCapital": false
+    }, {
+        "name": "Almeirim",
+        "isStateCapital": false
+    }, {
+        "name": "Altamira",
+        "isStateCapital": false
+    }, {
+        "name": "Anaj\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Ananindeua",
+        "isStateCapital": false
+    }, {
+        "name": "Anapu",
+        "isStateCapital": false
+    }, {
+        "name": "Augusto Corr\u00eaa",
+        "isStateCapital": false
+    }, {
+        "name": "Aurora do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Aveiro",
+        "isStateCapital": false
+    }, {
+        "name": "Bagre",
+        "isStateCapital": false
+    }, {
+        "name": "Bai\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Bannach",
+        "isStateCapital": false
+    }, {
+        "name": "Barcarena",
+        "isStateCapital": false
+    }, {
+        "name": "Belterra",
+        "isStateCapital": false
+    }, {
+        "name": "Benevides",
+        "isStateCapital": false
+    }, {
+        "name": "Bom Jesus do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Bonito",
+        "isStateCapital": false
+    }, {
+        "name": "Bragan\u00e7a",
+        "isStateCapital": false
+    }, {
+        "name": "Brasil Novo",
+        "isStateCapital": false
+    }, {
+        "name": "Brejo Grande do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Breu Branco",
+        "isStateCapital": false
+    }, {
+        "name": "Breves",
+        "isStateCapital": false
+    }, {
+        "name": "Bujaru",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeira do Arari",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeira do Piri\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Camet\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Cana\u00e3 dos Caraj\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Capanema",
+        "isStateCapital": false
+    }, {
+        "name": "Capit\u00e3o Po\u00e7o",
+        "isStateCapital": false
+    }, {
+        "name": "Castanhal",
+        "isStateCapital": false
+    }, {
+        "name": "Chaves",
+        "isStateCapital": false
+    }, {
+        "name": "Colares",
+        "isStateCapital": false
+    }, {
+        "name": "Concei\u00e7\u00e3o do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Conc\u00f3rdia do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Cumaru do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Curion\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Curralinho",
+        "isStateCapital": false
+    }, {
+        "name": "Curu\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Curu\u00e7\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Dom Eliseu",
+        "isStateCapital": false
+    }, {
+        "name": "Eldorado dos Caraj\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Faro",
+        "isStateCapital": false
+    }, {
+        "name": "Floresta do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Garraf\u00e3o do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Goian\u00e9sia do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Gurup\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Igarap\u00e9-A\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Igarap\u00e9-Miri",
+        "isStateCapital": false
+    }, {
+        "name": "Inhangapi",
+        "isStateCapital": false
+    }, {
+        "name": "Ipixuna do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Irituia",
+        "isStateCapital": false
+    }, {
+        "name": "Itaituba",
+        "isStateCapital": false
+    }, {
+        "name": "Itupiranga",
+        "isStateCapital": false
+    }, {
+        "name": "Jacareacanga",
+        "isStateCapital": false
+    }, {
+        "name": "Jacund\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Juruti",
+        "isStateCapital": false
+    }, {
+        "name": "Limoeiro do Ajuru",
+        "isStateCapital": false
+    }, {
+        "name": "M\u00e3e do Rio",
+        "isStateCapital": false
+    }, {
+        "name": "Magalh\u00e3es Barata",
+        "isStateCapital": false
+    }, {
+        "name": "Marab\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Maracan\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Marapanim",
+        "isStateCapital": false
+    }, {
+        "name": "Marituba",
+        "isStateCapital": false
+    }, {
+        "name": "Medicil\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Melga\u00e7o",
+        "isStateCapital": false
+    }, {
+        "name": "Mocajuba",
+        "isStateCapital": false
+    }, {
+        "name": "Moju",
+        "isStateCapital": false
+    }, {
+        "name": "Monte Alegre",
+        "isStateCapital": false
+    }, {
+        "name": "Muan\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Esperan\u00e7a do Piri\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Ipixuna",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Timboteua",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Progresso",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Repartimento",
+        "isStateCapital": false
+    }, {
+        "name": "\u00d3bidos",
+        "isStateCapital": false
+    }, {
+        "name": "Oeiras do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Oriximin\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Our\u00e9m",
+        "isStateCapital": false
+    }, {
+        "name": "Ouril\u00e2ndia do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Pacaj\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Palestina do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Paragominas",
+        "isStateCapital": false
+    }, {
+        "name": "Parauapebas",
+        "isStateCapital": false
+    }, {
+        "name": "Pau D'Arco",
+        "isStateCapital": false
+    }, {
+        "name": "Peixe-Boi",
+        "isStateCapital": false
+    }, {
+        "name": "Pi\u00e7arra",
+        "isStateCapital": false
+    }, {
+        "name": "Placas",
+        "isStateCapital": false
+    }, {
+        "name": "Ponta de Pedras",
+        "isStateCapital": false
+    }, {
+        "name": "Portel",
+        "isStateCapital": false
+    }, {
+        "name": "Porto de Moz",
+        "isStateCapital": false
+    }, {
+        "name": "Prainha",
+        "isStateCapital": false
+    }, {
+        "name": "Primavera",
+        "isStateCapital": false
+    }, {
+        "name": "Quatipuru",
+        "isStateCapital": false
+    }, {
+        "name": "Reden\u00e7\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Maria",
+        "isStateCapital": false
+    }, {
+        "name": "Rondon do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Rur\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Salin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Salvaterra",
+        "isStateCapital": false
+    }, {
+        "name": "Santa B\u00e1rbara do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Cruz do Arari",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Isabel do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Luzia do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Maria das Barreiras",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Maria do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Santana do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Santar\u00e9m",
+        "isStateCapital": false
+    }, {
+        "name": "Santar\u00e9m Novo",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio do Tau\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Caetano de Odivelas",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Domingos do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Domingos do Capim",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o F\u00e9lix do Xingu",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Francisco do Par\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Geraldo do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o da Ponta",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o de Pirabas",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Miguel do Guam\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Sebasti\u00e3o da Boa Vista",
+        "isStateCapital": false
+    }, {
+        "name": "Sapucaia",
+        "isStateCapital": false
+    }, {
+        "name": "Senador Jos\u00e9 Porf\u00edrio",
+        "isStateCapital": false
+    }, {
+        "name": "Soure",
+        "isStateCapital": false
+    }, {
+        "name": "Tail\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Terra Alta",
+        "isStateCapital": false
+    }, {
+        "name": "Terra Santa",
+        "isStateCapital": false
+    }, {
+        "name": "Tom\u00e9-A\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Tracuateua",
+        "isStateCapital": false
+    }, {
+        "name": "Trair\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Tucum\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Tucuru\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Ulian\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Uruar\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Vigia",
+        "isStateCapital": false
+    }, {
+        "name": "Viseu",
+        "isStateCapital": false
+    }, {
+        "name": "Vit\u00f3ria do Xingu",
+        "isStateCapital": false
+    }, {
+        "name": "Xinguara",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Rond\u00f4nia",
+    "capital": "Porto Velho",
+    "abbreviation": "RO",
+    "cities": [{
+        "name": "Porto Velho",
+        "isStateCapital": true
+    }, {
+        "name": "Alta Floresta D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Alegre dos Parecis",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Para\u00edso",
+        "isStateCapital": false
+    }, {
+        "name": "Alvorada D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Ariquemes",
+        "isStateCapital": false
+    }, {
+        "name": "Buritis",
+        "isStateCapital": false
+    }, {
+        "name": "Cabixi",
+        "isStateCapital": false
+    }, {
+        "name": "Cacaul\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Cacoal",
+        "isStateCapital": false
+    }, {
+        "name": "Campo Novo de Rond\u00f4nia",
+        "isStateCapital": false
+    }, {
+        "name": "Candeias do Jamari",
+        "isStateCapital": false
+    }, {
+        "name": "Castanheiras",
+        "isStateCapital": false
+    }, {
+        "name": "Cerejeiras",
+        "isStateCapital": false
+    }, {
+        "name": "Chupinguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Colorado do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Corumbiara",
+        "isStateCapital": false
+    }, {
+        "name": "Costa Marques",
+        "isStateCapital": false
+    }, {
+        "name": "Cujubim",
+        "isStateCapital": false
+    }, {
+        "name": "Espig\u00e3o D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Governador Jorge Teixeira",
+        "isStateCapital": false
+    }, {
+        "name": "Guajar\u00e1-Mirim",
+        "isStateCapital": false
+    }, {
+        "name": "Itapu\u00e3 do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Jaru",
+        "isStateCapital": false
+    }, {
+        "name": "Ji-Paran\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Machadinho D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Ministro Andreazza",
+        "isStateCapital": false
+    }, {
+        "name": "Mirante da Serra",
+        "isStateCapital": false
+    }, {
+        "name": "Monte Negro",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Brasil\u00e2ndia D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Mamor\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Uni\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Horizonte do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Ouro Preto do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Parecis",
+        "isStateCapital": false
+    }, {
+        "name": "Pimenta Bueno",
+        "isStateCapital": false
+    }, {
+        "name": "Pimenteiras do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Presidente M\u00e9dici",
+        "isStateCapital": false
+    }, {
+        "name": "Primavera de Rond\u00f4nia",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Crespo",
+        "isStateCapital": false
+    }, {
+        "name": "Rolim de Moura",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Luzia D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Felipe D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Francisco do Guapor\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Miguel do Guapor\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Seringueiras",
+        "isStateCapital": false
+    }, {
+        "name": "Teixeir\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Theobroma",
+        "isStateCapital": false
+    }, {
+        "name": "Urup\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Vale do Anari",
+        "isStateCapital": false
+    }, {
+        "name": "Vale do Para\u00edso",
+        "isStateCapital": false
+    }, {
+        "name": "Vilhena",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Roraima",
+    "capital": "Boa Vista",
+    "abbreviation": "RR",
+    "cities": [{
+        "name": "Boa Vista",
+        "isStateCapital": true
+    }, {
+        "name": "Alto Alegre",
+        "isStateCapital": false
+    }, {
+        "name": "Amajari",
+        "isStateCapital": false
+    }, {
+        "name": "Bonfim",
+        "isStateCapital": false
+    }, {
+        "name": "Cant\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Caracara\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Caroebe",
+        "isStateCapital": false
+    }, {
+        "name": "Iracema",
+        "isStateCapital": false
+    }, {
+        "name": "Mucaja\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Normandia",
+        "isStateCapital": false
+    }, {
+        "name": "Pacaraima",
+        "isStateCapital": false
+    }, {
+        "name": "Rorain\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o da Baliza",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Luiz",
+        "isStateCapital": false
+    }, {
+        "name": "Uiramut\u00e3",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Tocantins",
+    "capital": "Palmas",
+    "abbreviation": "TO",
+    "cities": [{
+        "name": "Palmas",
+        "isStateCapital": true
+    }, {
+        "name": "Abreul\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Aguiarn\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Alian\u00e7a do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Almas",
+        "isStateCapital": false
+    }, {
+        "name": "Alvorada",
+        "isStateCapital": false
+    }, {
+        "name": "Anan\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Angico",
+        "isStateCapital": false
+    }, {
+        "name": "Aparecida do Rio Negro",
+        "isStateCapital": false
+    }, {
+        "name": "Aragominas",
+        "isStateCapital": false
+    }, {
+        "name": "Araguacema",
+        "isStateCapital": false
+    }, {
+        "name": "Aragua\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Aragua\u00edna",
+        "isStateCapital": false
+    }, {
+        "name": "Araguan\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Araguatins",
+        "isStateCapital": false
+    }, {
+        "name": "Arapoema",
+        "isStateCapital": false
+    }, {
+        "name": "Arraias",
+        "isStateCapital": false
+    }, {
+        "name": "Augustin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Aurora do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Axix\u00e1 do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Baba\u00e7ul\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Bandeirantes do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Barra do Ouro",
+        "isStateCapital": false
+    }, {
+        "name": "Barrol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Bernardo Say\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Bom Jesus do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Brasil\u00e2ndia do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Brejinho de Nazar\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Buriti do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeirinha",
+        "isStateCapital": false
+    }, {
+        "name": "Campos Lindos",
+        "isStateCapital": false
+    }, {
+        "name": "Cariri do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Carmol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Carrasco Bonito",
+        "isStateCapital": false
+    }, {
+        "name": "Caseara",
+        "isStateCapital": false
+    }, {
+        "name": "Centen\u00e1rio",
+        "isStateCapital": false
+    }, {
+        "name": "Chapada da Natividade",
+        "isStateCapital": false
+    }, {
+        "name": "Chapada de Areia",
+        "isStateCapital": false
+    }, {
+        "name": "Colinas do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Colm\u00e9ia",
+        "isStateCapital": false
+    }, {
+        "name": "Combinado",
+        "isStateCapital": false
+    }, {
+        "name": "Concei\u00e7\u00e3o do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Couto Magalh\u00e3es",
+        "isStateCapital": false
+    }, {
+        "name": "Cristal\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Crix\u00e1s do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Darcin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Dian\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Divin\u00f3polis do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Dois Irm\u00e3os do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Duer\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Esperantina",
+        "isStateCapital": false
+    }, {
+        "name": "F\u00e1tima",
+        "isStateCapital": false
+    }, {
+        "name": "Figueir\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Filad\u00e9lfia",
+        "isStateCapital": false
+    }, {
+        "name": "Formoso do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Fortaleza do Taboc\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Goianorte",
+        "isStateCapital": false
+    }, {
+        "name": "Goiatins",
+        "isStateCapital": false
+    }, {
+        "name": "Guara\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Gurupi",
+        "isStateCapital": false
+    }, {
+        "name": "Ipueiras",
+        "isStateCapital": false
+    }, {
+        "name": "Itacaj\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Itaguatins",
+        "isStateCapital": false
+    }, {
+        "name": "Itapiratins",
+        "isStateCapital": false
+    }, {
+        "name": "Itapor\u00e3 do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Ja\u00fa do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Juarina",
+        "isStateCapital": false
+    }, {
+        "name": "Lagoa da Confus\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Lagoa do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Lajeado",
+        "isStateCapital": false
+    }, {
+        "name": "Lavandeira",
+        "isStateCapital": false
+    }, {
+        "name": "Lizarda",
+        "isStateCapital": false
+    }, {
+        "name": "Luzin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Marian\u00f3polis do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Mateiros",
+        "isStateCapital": false
+    }, {
+        "name": "Mauril\u00e2ndia do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Miracema do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Miranorte",
+        "isStateCapital": false
+    }, {
+        "name": "Monte do Carmo",
+        "isStateCapital": false
+    }, {
+        "name": "Monte Santo do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Muricil\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Natividade",
+        "isStateCapital": false
+    }, {
+        "name": "Nazar\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Olinda",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Rosal\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Acordo",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Alegre",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Jardim",
+        "isStateCapital": false
+    }, {
+        "name": "Oliveira de F\u00e1tima",
+        "isStateCapital": false
+    }, {
+        "name": "Palmeirante",
+        "isStateCapital": false
+    }, {
+        "name": "Palmeiras do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Palmeir\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Para\u00edso do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Paran\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Pau D'Arco",
+        "isStateCapital": false
+    }, {
+        "name": "Pedro Afonso",
+        "isStateCapital": false
+    }, {
+        "name": "Peixe",
+        "isStateCapital": false
+    }, {
+        "name": "Pequizeiro",
+        "isStateCapital": false
+    }, {
+        "name": "Pindorama do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Piraqu\u00ea",
+        "isStateCapital": false
+    }, {
+        "name": "Pium",
+        "isStateCapital": false
+    }, {
+        "name": "Ponte Alta do Bom Jesus",
+        "isStateCapital": false
+    }, {
+        "name": "Ponte Alta do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Alegre do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Nacional",
+        "isStateCapital": false
+    }, {
+        "name": "Praia Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Presidente Kennedy",
+        "isStateCapital": false
+    }, {
+        "name": "Pugmil",
+        "isStateCapital": false
+    }, {
+        "name": "Recursol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Riachinho",
+        "isStateCapital": false
+    }, {
+        "name": "Rio da Concei\u00e7\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Rio dos Bois",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Sono",
+        "isStateCapital": false
+    }, {
+        "name": "Sampaio",
+        "isStateCapital": false
+    }, {
+        "name": "Sandol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Santa F\u00e9 do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Maria do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rita do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rosa do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Tereza do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Terezinha do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Bento do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o F\u00e9lix do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Miguel do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Salvador do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Sebasti\u00e3o do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Val\u00e9rio",
+        "isStateCapital": false
+    }, {
+        "name": "Silvan\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00edtio Novo do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Sucupira",
+        "isStateCapital": false
+    }, {
+        "name": "Taguatinga",
+        "isStateCapital": false
+    }, {
+        "name": "Taipas do Tocantins",
+        "isStateCapital": false
+    }, {
+        "name": "Talism\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Tocant\u00ednia",
+        "isStateCapital": false
+    }, {
+        "name": "Tocantin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Tupirama",
+        "isStateCapital": false
+    }, {
+        "name": "Tupiratins",
+        "isStateCapital": false
+    }, {
+        "name": "Wanderl\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Xambio\u00e1",
+        "isStateCapital": false
+    }]
+}]

@@ -1,0 +1,235 @@
+[{
+    "name": "Vit\u00f3ria",
+    "isStateCapital": true
+}, {
+    "name": "Afonso Cl\u00e1udio",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1gua Doce do Norte",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1guia Branca",
+    "isStateCapital": false
+}, {
+    "name": "Alegre",
+    "isStateCapital": false
+}, {
+    "name": "Alfredo Chaves",
+    "isStateCapital": false
+}, {
+    "name": "Alto Rio Novo",
+    "isStateCapital": false
+}, {
+    "name": "Anchieta",
+    "isStateCapital": false
+}, {
+    "name": "Apiac\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Aracruz",
+    "isStateCapital": false
+}, {
+    "name": "Atilio Vivacqua",
+    "isStateCapital": false
+}, {
+    "name": "Baixo Guandu",
+    "isStateCapital": false
+}, {
+    "name": "Barra de S\u00e3o Francisco",
+    "isStateCapital": false
+}, {
+    "name": "Boa Esperan\u00e7a",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jesus do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Brejetuba",
+    "isStateCapital": false
+}, {
+    "name": "Cachoeiro de Itapemirim",
+    "isStateCapital": false
+}, {
+    "name": "Cariacica",
+    "isStateCapital": false
+}, {
+    "name": "Castelo",
+    "isStateCapital": false
+}, {
+    "name": "Colatina",
+    "isStateCapital": false
+}, {
+    "name": "Concei\u00e7\u00e3o da Barra",
+    "isStateCapital": false
+}, {
+    "name": "Concei\u00e7\u00e3o do Castelo",
+    "isStateCapital": false
+}, {
+    "name": "Divino de S\u00e3o Louren\u00e7o",
+    "isStateCapital": false
+}, {
+    "name": "Domingos Martins",
+    "isStateCapital": false
+}, {
+    "name": "Dores do Rio Preto",
+    "isStateCapital": false
+}, {
+    "name": "Ecoporanga",
+    "isStateCapital": false
+}, {
+    "name": "Fund\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Governador Lindenberg",
+    "isStateCapital": false
+}, {
+    "name": "Gua\u00e7u\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Guarapari",
+    "isStateCapital": false
+}, {
+    "name": "Ibatiba",
+    "isStateCapital": false
+}, {
+    "name": "Ibira\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Ibitirama",
+    "isStateCapital": false
+}, {
+    "name": "Iconha",
+    "isStateCapital": false
+}, {
+    "name": "Irupi",
+    "isStateCapital": false
+}, {
+    "name": "Itagua\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Itapemirim",
+    "isStateCapital": false
+}, {
+    "name": "Itarana",
+    "isStateCapital": false
+}, {
+    "name": "I\u00fana",
+    "isStateCapital": false
+}, {
+    "name": "Jaguar\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Jer\u00f4nimo Monteiro",
+    "isStateCapital": false
+}, {
+    "name": "Jo\u00e3o Neiva",
+    "isStateCapital": false
+}, {
+    "name": "Laranja da Terra",
+    "isStateCapital": false
+}, {
+    "name": "Linhares",
+    "isStateCapital": false
+}, {
+    "name": "Manten\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Marata\u00edzes",
+    "isStateCapital": false
+}, {
+    "name": "Marechal Floriano",
+    "isStateCapital": false
+}, {
+    "name": "Maril\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Mimoso do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Montanha",
+    "isStateCapital": false
+}, {
+    "name": "Mucurici",
+    "isStateCapital": false
+}, {
+    "name": "Muniz Freire",
+    "isStateCapital": false
+}, {
+    "name": "Muqui",
+    "isStateCapital": false
+}, {
+    "name": "Nova Ven\u00e9cia",
+    "isStateCapital": false
+}, {
+    "name": "Pancas",
+    "isStateCapital": false
+}, {
+    "name": "Pedro Can\u00e1rio",
+    "isStateCapital": false
+}, {
+    "name": "Pinheiros",
+    "isStateCapital": false
+}, {
+    "name": "Pi\u00fama",
+    "isStateCapital": false
+}, {
+    "name": "Ponto Belo",
+    "isStateCapital": false
+}, {
+    "name": "Presidente Kennedy",
+    "isStateCapital": false
+}, {
+    "name": "Rio Bananal",
+    "isStateCapital": false
+}, {
+    "name": "Rio Novo do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Santa Leopoldina",
+    "isStateCapital": false
+}, {
+    "name": "Santa Maria de Jetib\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Santa Teresa",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Domingos do Norte",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Gabriel da Palha",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Cal\u00e7ado",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Mateus",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Roque do Cana\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Serra",
+    "isStateCapital": false
+}, {
+    "name": "Sooretama",
+    "isStateCapital": false
+}, {
+    "name": "Vargem Alta",
+    "isStateCapital": false
+}, {
+    "name": "Venda Nova do Imigrante",
+    "isStateCapital": false
+}, {
+    "name": "Viana",
+    "isStateCapital": false
+}, {
+    "name": "Vila Pav\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Vila Val\u00e9rio",
+    "isStateCapital": false
+}, {
+    "name": "Vila Velha",
+    "isStateCapital": false
+}]

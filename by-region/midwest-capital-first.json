@@ -1,0 +1,1419 @@
+[{
+    "name": "Distrito Federal",
+    "capital": "Bras\u00edlia",
+    "abbreviation": "DF",
+    "cities": [{
+        "name": "Bras\u00edlia",
+        "isStateCapital": true
+    }]
+}, {
+    "name": "Goi\u00e1s",
+    "capital": "Goi\u00e2nia",
+    "abbreviation": "GO",
+    "cities": [{
+        "name": "Goi\u00e2nia",
+        "isStateCapital": true
+    }, {
+        "name": "Abadia de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Abadi\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Acre\u00fana",
+        "isStateCapital": false
+    }, {
+        "name": "Adel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "\u00c1gua Fria de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "\u00c1gua Limpa",
+        "isStateCapital": false
+    }, {
+        "name": "\u00c1guas Lindas de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Alex\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Alo\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Horizonte",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Para\u00edso de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Alvorada do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Amaralina",
+        "isStateCapital": false
+    }, {
+        "name": "Americano do Brasil",
+        "isStateCapital": false
+    }, {
+        "name": "Amorin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "An\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Anhanguera",
+        "isStateCapital": false
+    }, {
+        "name": "Anicuns",
+        "isStateCapital": false
+    }, {
+        "name": "Aparecida de Goi\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Aparecida do Rio Doce",
+        "isStateCapital": false
+    }, {
+        "name": "Apor\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Ara\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Aragar\u00e7as",
+        "isStateCapital": false
+    }, {
+        "name": "Aragoi\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Araguapaz",
+        "isStateCapital": false
+    }, {
+        "name": "Aren\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Aruan\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Auril\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Avelin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Baliza",
+        "isStateCapital": false
+    }, {
+        "name": "Barro Alto",
+        "isStateCapital": false
+    }, {
+        "name": "Bela Vista de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Bom Jardim de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Bom Jesus de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Bonfin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Bon\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Brazabrantes",
+        "isStateCapital": false
+    }, {
+        "name": "Brit\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Buriti Alegre",
+        "isStateCapital": false
+    }, {
+        "name": "Buriti de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Buritin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Cabeceiras",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeira Alta",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeira de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Cachoeira Dourada",
+        "isStateCapital": false
+    }, {
+        "name": "Ca\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Caiap\u00f4nia",
+        "isStateCapital": false
+    }, {
+        "name": "Caldas Novas",
+        "isStateCapital": false
+    }, {
+        "name": "Caldazinha",
+        "isStateCapital": false
+    }, {
+        "name": "Campestre de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Campina\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Campinorte",
+        "isStateCapital": false
+    }, {
+        "name": "Campo Alegre de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Campo Limpo de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Campos Belos",
+        "isStateCapital": false
+    }, {
+        "name": "Campos Verdes",
+        "isStateCapital": false
+    }, {
+        "name": "Carmo do Rio Verde",
+        "isStateCapital": false
+    }, {
+        "name": "Castel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Catal\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Catura\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Cavalcante",
+        "isStateCapital": false
+    }, {
+        "name": "Ceres",
+        "isStateCapital": false
+    }, {
+        "name": "Cezarina",
+        "isStateCapital": false
+    }, {
+        "name": "Chapad\u00e3o do C\u00e9u",
+        "isStateCapital": false
+    }, {
+        "name": "Cidade Ocidental",
+        "isStateCapital": false
+    }, {
+        "name": "Cocalzinho de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Colinas do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "C\u00f3rrego do Ouro",
+        "isStateCapital": false
+    }, {
+        "name": "Corumb\u00e1 de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Corumba\u00edba",
+        "isStateCapital": false
+    }, {
+        "name": "Cristalina",
+        "isStateCapital": false
+    }, {
+        "name": "Cristian\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Crix\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Crom\u00ednia",
+        "isStateCapital": false
+    }, {
+        "name": "Cumari",
+        "isStateCapital": false
+    }, {
+        "name": "Damian\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Damol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Davin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Diorama",
+        "isStateCapital": false
+    }, {
+        "name": "Divin\u00f3polis de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Doverl\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Edealina",
+        "isStateCapital": false
+    }, {
+        "name": "Ed\u00e9ia",
+        "isStateCapital": false
+    }, {
+        "name": "Estrela do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Faina",
+        "isStateCapital": false
+    }, {
+        "name": "Fazenda Nova",
+        "isStateCapital": false
+    }, {
+        "name": "Firmin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Flores de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Formosa",
+        "isStateCapital": false
+    }, {
+        "name": "Formoso",
+        "isStateCapital": false
+    }, {
+        "name": "Gameleira de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Goian\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Goiandira",
+        "isStateCapital": false
+    }, {
+        "name": "Goian\u00e9sia",
+        "isStateCapital": false
+    }, {
+        "name": "Goianira",
+        "isStateCapital": false
+    }, {
+        "name": "Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Goiatuba",
+        "isStateCapital": false
+    }, {
+        "name": "Gouvel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Guap\u00f3",
+        "isStateCapital": false
+    }, {
+        "name": "Guara\u00edta",
+        "isStateCapital": false
+    }, {
+        "name": "Guarani de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Guarinos",
+        "isStateCapital": false
+    }, {
+        "name": "Heitora\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Hidrol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Hidrolina",
+        "isStateCapital": false
+    }, {
+        "name": "Iaciara",
+        "isStateCapital": false
+    }, {
+        "name": "Inaciol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Indiara",
+        "isStateCapital": false
+    }, {
+        "name": "Inhumas",
+        "isStateCapital": false
+    }, {
+        "name": "Ipameri",
+        "isStateCapital": false
+    }, {
+        "name": "Ipiranga de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Ipor\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Israel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Itabera\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Itaguari",
+        "isStateCapital": false
+    }, {
+        "name": "Itaguaru",
+        "isStateCapital": false
+    }, {
+        "name": "Itaj\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Itapaci",
+        "isStateCapital": false
+    }, {
+        "name": "Itapirapu\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Itapuranga",
+        "isStateCapital": false
+    }, {
+        "name": "Itarum\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Itau\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Itumbiara",
+        "isStateCapital": false
+    }, {
+        "name": "Ivol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Jandaia",
+        "isStateCapital": false
+    }, {
+        "name": "Jaragu\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Jata\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Jaupaci",
+        "isStateCapital": false
+    }, {
+        "name": "Jes\u00fapolis",
+        "isStateCapital": false
+    }, {
+        "name": "Jovi\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Jussara",
+        "isStateCapital": false
+    }, {
+        "name": "Lagoa Santa",
+        "isStateCapital": false
+    }, {
+        "name": "Leopoldo de Bulh\u00f5es",
+        "isStateCapital": false
+    }, {
+        "name": "Luzi\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Mairipotaba",
+        "isStateCapital": false
+    }, {
+        "name": "Mamba\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Mara Rosa",
+        "isStateCapital": false
+    }, {
+        "name": "Marzag\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Matrinch\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Mauril\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Mimoso de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Mina\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Mineiros",
+        "isStateCapital": false
+    }, {
+        "name": "Moipor\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Monte Alegre de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Montes Claros de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Montividiu",
+        "isStateCapital": false
+    }, {
+        "name": "Montividiu do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Morrinhos",
+        "isStateCapital": false
+    }, {
+        "name": "Morro Agudo de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Moss\u00e2medes",
+        "isStateCapital": false
+    }, {
+        "name": "Mozarl\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Mundo Novo",
+        "isStateCapital": false
+    }, {
+        "name": "Mutun\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Naz\u00e1rio",
+        "isStateCapital": false
+    }, {
+        "name": "Ner\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Niquel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Am\u00e9rica",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Aurora",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Crix\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Gl\u00f3ria",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Igua\u00e7u de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Roma",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Veneza",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Brasil",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Gama",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Planalto",
+        "isStateCapital": false
+    }, {
+        "name": "Orizona",
+        "isStateCapital": false
+    }, {
+        "name": "Ouro Verde de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Ouvidor",
+        "isStateCapital": false
+    }, {
+        "name": "Padre Bernardo",
+        "isStateCapital": false
+    }, {
+        "name": "Palestina de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Palmeiras de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Palmelo",
+        "isStateCapital": false
+    }, {
+        "name": "Palmin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Panam\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Paranaiguara",
+        "isStateCapital": false
+    }, {
+        "name": "Para\u00fana",
+        "isStateCapital": false
+    }, {
+        "name": "Perol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Petrolina de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Pilar de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Piracanjuba",
+        "isStateCapital": false
+    }, {
+        "name": "Piranhas",
+        "isStateCapital": false
+    }, {
+        "name": "Piren\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Pires do Rio",
+        "isStateCapital": false
+    }, {
+        "name": "Planaltina",
+        "isStateCapital": false
+    }, {
+        "name": "Pontalina",
+        "isStateCapital": false
+    }, {
+        "name": "Porangatu",
+        "isStateCapital": false
+    }, {
+        "name": "Porteir\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Portel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Posse",
+        "isStateCapital": false
+    }, {
+        "name": "Professor Jamil",
+        "isStateCapital": false
+    }, {
+        "name": "Quirin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Rialma",
+        "isStateCapital": false
+    }, {
+        "name": "Rian\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Quente",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Verde",
+        "isStateCapital": false
+    }, {
+        "name": "Rubiataba",
+        "isStateCapital": false
+    }, {
+        "name": "Sanclerl\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Santa B\u00e1rbara de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Cruz de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa F\u00e9 de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Helena de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Isabel",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rita do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rita do Novo Destino",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rosa de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Tereza de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Terezinha de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio da Barra",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio do Descoberto",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Domingos",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Francisco de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o d'Alian\u00e7a",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jo\u00e3o da Para\u00fana",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Lu\u00eds de Montes Belos",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Lu\u00edz do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Miguel do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Miguel do Passa Quatro",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Patr\u00edcio",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Sim\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Senador Canedo",
+        "isStateCapital": false
+    }, {
+        "name": "Serran\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Silv\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Simol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00edtio d'Abadia",
+        "isStateCapital": false
+    }, {
+        "name": "Taquaral de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Teresina de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Terez\u00f3polis de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Tr\u00eas Ranchos",
+        "isStateCapital": false
+    }, {
+        "name": "Trindade",
+        "isStateCapital": false
+    }, {
+        "name": "Trombas",
+        "isStateCapital": false
+    }, {
+        "name": "Turv\u00e2nia",
+        "isStateCapital": false
+    }, {
+        "name": "Turvel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Uirapuru",
+        "isStateCapital": false
+    }, {
+        "name": "Urua\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Uruana",
+        "isStateCapital": false
+    }, {
+        "name": "Uruta\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Valpara\u00edso de Goi\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Varj\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Vian\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Vicentin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Vila Boa",
+        "isStateCapital": false
+    }, {
+        "name": "Vila Prop\u00edcio",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Mato Grosso",
+    "capital": "Cuiab\u00e1",
+    "abbreviation": "MT",
+    "cities": [{
+        "name": "Cuiab\u00e1",
+        "isStateCapital": true
+    }, {
+        "name": "Acorizal",
+        "isStateCapital": false
+    }, {
+        "name": "\u00c1gua Boa",
+        "isStateCapital": false
+    }, {
+        "name": "Alta Floresta",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Boa Vista",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Gar\u00e7as",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Paraguai",
+        "isStateCapital": false
+    }, {
+        "name": "Alto Taquari",
+        "isStateCapital": false
+    }, {
+        "name": "Apiac\u00e1s",
+        "isStateCapital": false
+    }, {
+        "name": "Araguaiana",
+        "isStateCapital": false
+    }, {
+        "name": "Araguainha",
+        "isStateCapital": false
+    }, {
+        "name": "Araputanga",
+        "isStateCapital": false
+    }, {
+        "name": "Aren\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Aripuan\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Bar\u00e3o de Melga\u00e7o",
+        "isStateCapital": false
+    }, {
+        "name": "Barra do Bugres",
+        "isStateCapital": false
+    }, {
+        "name": "Barra do Gar\u00e7as",
+        "isStateCapital": false
+    }, {
+        "name": "Bom Jesus do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Brasnorte",
+        "isStateCapital": false
+    }, {
+        "name": "C\u00e1ceres",
+        "isStateCapital": false
+    }, {
+        "name": "Campin\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Campo Novo do Parecis",
+        "isStateCapital": false
+    }, {
+        "name": "Campo Verde",
+        "isStateCapital": false
+    }, {
+        "name": "Campos de J\u00falio",
+        "isStateCapital": false
+    }, {
+        "name": "Canabrava do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Canarana",
+        "isStateCapital": false
+    }, {
+        "name": "Carlinda",
+        "isStateCapital": false
+    }, {
+        "name": "Castanheira",
+        "isStateCapital": false
+    }, {
+        "name": "Chapada dos Guimar\u00e3es",
+        "isStateCapital": false
+    }, {
+        "name": "Cl\u00e1udia",
+        "isStateCapital": false
+    }, {
+        "name": "Cocalinho",
+        "isStateCapital": false
+    }, {
+        "name": "Col\u00edder",
+        "isStateCapital": false
+    }, {
+        "name": "Colniza",
+        "isStateCapital": false
+    }, {
+        "name": "Comodoro",
+        "isStateCapital": false
+    }, {
+        "name": "Confresa",
+        "isStateCapital": false
+    }, {
+        "name": "Conquista D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Cotrigua\u00e7u",
+        "isStateCapital": false
+    }, {
+        "name": "Curvel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Denise",
+        "isStateCapital": false
+    }, {
+        "name": "Diamantino",
+        "isStateCapital": false
+    }, {
+        "name": "Dom Aquino",
+        "isStateCapital": false
+    }, {
+        "name": "Feliz Natal",
+        "isStateCapital": false
+    }, {
+        "name": "Figueir\u00f3polis D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Ga\u00facha do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "General Carneiro",
+        "isStateCapital": false
+    }, {
+        "name": "Gl\u00f3ria D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Guarant\u00e3 do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Guiratinga",
+        "isStateCapital": false
+    }, {
+        "name": "Indiava\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Ipiranga do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Itanhang\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Ita\u00faba",
+        "isStateCapital": false
+    }, {
+        "name": "Itiquira",
+        "isStateCapital": false
+    }, {
+        "name": "Jaciara",
+        "isStateCapital": false
+    }, {
+        "name": "Jangada",
+        "isStateCapital": false
+    }, {
+        "name": "Jauru",
+        "isStateCapital": false
+    }, {
+        "name": "Juara",
+        "isStateCapital": false
+    }, {
+        "name": "Ju\u00edna",
+        "isStateCapital": false
+    }, {
+        "name": "Juruena",
+        "isStateCapital": false
+    }, {
+        "name": "Juscimeira",
+        "isStateCapital": false
+    }, {
+        "name": "Lambari D'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Lucas do Rio Verde",
+        "isStateCapital": false
+    }, {
+        "name": "Luciara",
+        "isStateCapital": false
+    }, {
+        "name": "Marcel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Matup\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Mirassol d'Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Nobres",
+        "isStateCapital": false
+    }, {
+        "name": "Nortel\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Nossa Senhora do Livramento",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Bandeirantes",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Brasil\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Cana\u00e3 do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Guarita",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Lacerda",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Maril\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Maring\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Monte Verde",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Mutum",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Nazar\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Ol\u00edmpia",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Santa Helena",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Ubirat\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Xavantina",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Horizonte do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Mundo",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Santo Ant\u00f4nio",
+        "isStateCapital": false
+    }, {
+        "name": "Novo S\u00e3o Joaquim",
+        "isStateCapital": false
+    }, {
+        "name": "Parana\u00edta",
+        "isStateCapital": false
+    }, {
+        "name": "Paranatinga",
+        "isStateCapital": false
+    }, {
+        "name": "Pedra Preta",
+        "isStateCapital": false
+    }, {
+        "name": "Peixoto de Azevedo",
+        "isStateCapital": false
+    }, {
+        "name": "Planalto da Serra",
+        "isStateCapital": false
+    }, {
+        "name": "Pocon\u00e9",
+        "isStateCapital": false
+    }, {
+        "name": "Pontal do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "Ponte Branca",
+        "isStateCapital": false
+    }, {
+        "name": "Pontes e Lacerda",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Alegre do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Porto dos Ga\u00fachos",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Esperidi\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Estrela",
+        "isStateCapital": false
+    }, {
+        "name": "Poxor\u00e9o",
+        "isStateCapital": false
+    }, {
+        "name": "Primavera do Leste",
+        "isStateCapital": false
+    }, {
+        "name": "Quer\u00eancia",
+        "isStateCapital": false
+    }, {
+        "name": "Reserva do Caba\u00e7al",
+        "isStateCapital": false
+    }, {
+        "name": "Ribeir\u00e3o Cascalheira",
+        "isStateCapital": false
+    }, {
+        "name": "Ribeir\u00e3ozinho",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Branco",
+        "isStateCapital": false
+    }, {
+        "name": "Rondol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Rondon\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Ros\u00e1rio Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Salto do C\u00e9u",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Carmem",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Cruz do Xingu",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rita do Trivelato",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Terezinha",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Afonso",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio do Leste",
+        "isStateCapital": false
+    }, {
+        "name": "Santo Ant\u00f4nio do Leverger",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o F\u00e9lix do Araguaia",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jos\u00e9 do Povo",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jos\u00e9 do Rio Claro",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jos\u00e9 do Xingu",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Jos\u00e9 dos Quatro Marcos",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Pedro da Cipa",
+        "isStateCapital": false
+    }, {
+        "name": "Sapezal",
+        "isStateCapital": false
+    }, {
+        "name": "Serra Nova Dourada",
+        "isStateCapital": false
+    }, {
+        "name": "Sinop",
+        "isStateCapital": false
+    }, {
+        "name": "Sorriso",
+        "isStateCapital": false
+    }, {
+        "name": "Tabapor\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Tangar\u00e1 da Serra",
+        "isStateCapital": false
+    }, {
+        "name": "Tapurah",
+        "isStateCapital": false
+    }, {
+        "name": "Terra Nova do Norte",
+        "isStateCapital": false
+    }, {
+        "name": "Tesouro",
+        "isStateCapital": false
+    }, {
+        "name": "Torixor\u00e9u",
+        "isStateCapital": false
+    }, {
+        "name": "Uni\u00e3o do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Vale de S\u00e3o Domingos",
+        "isStateCapital": false
+    }, {
+        "name": "V\u00e1rzea Grande",
+        "isStateCapital": false
+    }, {
+        "name": "Vera",
+        "isStateCapital": false
+    }, {
+        "name": "Vila Bela da Sant\u00edssima Trindade",
+        "isStateCapital": false
+    }, {
+        "name": "Vila Rica",
+        "isStateCapital": false
+    }]
+}, {
+    "name": "Mato Grosso do Sul",
+    "capital": "Campo Grande",
+    "abbreviation": "MS",
+    "cities": [{
+        "name": "Campo Grande",
+        "isStateCapital": true
+    }, {
+        "name": "\u00c1gua Clara",
+        "isStateCapital": false
+    }, {
+        "name": "Alcin\u00f3polis",
+        "isStateCapital": false
+    }, {
+        "name": "Amambai",
+        "isStateCapital": false
+    }, {
+        "name": "Anast\u00e1cio",
+        "isStateCapital": false
+    }, {
+        "name": "Anauril\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Ang\u00e9lica",
+        "isStateCapital": false
+    }, {
+        "name": "Ant\u00f4nio Jo\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Aparecida do Taboado",
+        "isStateCapital": false
+    }, {
+        "name": "Aquidauana",
+        "isStateCapital": false
+    }, {
+        "name": "Aral Moreira",
+        "isStateCapital": false
+    }, {
+        "name": "Bandeirantes",
+        "isStateCapital": false
+    }, {
+        "name": "Bataguassu",
+        "isStateCapital": false
+    }, {
+        "name": "Bataypor\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Bela Vista",
+        "isStateCapital": false
+    }, {
+        "name": "Bodoquena",
+        "isStateCapital": false
+    }, {
+        "name": "Bonito",
+        "isStateCapital": false
+    }, {
+        "name": "Brasil\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Caarap\u00f3",
+        "isStateCapital": false
+    }, {
+        "name": "Camapu\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Caracol",
+        "isStateCapital": false
+    }, {
+        "name": "Cassil\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Chapad\u00e3o do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Corguinho",
+        "isStateCapital": false
+    }, {
+        "name": "Coronel Sapucaia",
+        "isStateCapital": false
+    }, {
+        "name": "Corumb\u00e1",
+        "isStateCapital": false
+    }, {
+        "name": "Costa Rica",
+        "isStateCapital": false
+    }, {
+        "name": "Coxim",
+        "isStateCapital": false
+    }, {
+        "name": "Deod\u00e1polis",
+        "isStateCapital": false
+    }, {
+        "name": "Dois Irm\u00e3os do Buriti",
+        "isStateCapital": false
+    }, {
+        "name": "Douradina",
+        "isStateCapital": false
+    }, {
+        "name": "Dourados",
+        "isStateCapital": false
+    }, {
+        "name": "Eldorado",
+        "isStateCapital": false
+    }, {
+        "name": "F\u00e1tima do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Figueir\u00e3o",
+        "isStateCapital": false
+    }, {
+        "name": "Gl\u00f3ria de Dourados",
+        "isStateCapital": false
+    }, {
+        "name": "Guia Lopes da Laguna",
+        "isStateCapital": false
+    }, {
+        "name": "Iguatemi",
+        "isStateCapital": false
+    }, {
+        "name": "Inoc\u00eancia",
+        "isStateCapital": false
+    }, {
+        "name": "Itapor\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Itaquira\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Ivinhema",
+        "isStateCapital": false
+    }, {
+        "name": "Japor\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Jaraguari",
+        "isStateCapital": false
+    }, {
+        "name": "Jardim",
+        "isStateCapital": false
+    }, {
+        "name": "Jate\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Juti",
+        "isStateCapital": false
+    }, {
+        "name": "Lad\u00e1rio",
+        "isStateCapital": false
+    }, {
+        "name": "Laguna Carap\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Maracaju",
+        "isStateCapital": false
+    }, {
+        "name": "Miranda",
+        "isStateCapital": false
+    }, {
+        "name": "Mundo Novo",
+        "isStateCapital": false
+    }, {
+        "name": "Navira\u00ed",
+        "isStateCapital": false
+    }, {
+        "name": "Nioaque",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Alvorada do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Nova Andradina",
+        "isStateCapital": false
+    }, {
+        "name": "Novo Horizonte do Sul",
+        "isStateCapital": false
+    }, {
+        "name": "Parana\u00edba",
+        "isStateCapital": false
+    }, {
+        "name": "Paranhos",
+        "isStateCapital": false
+    }, {
+        "name": "Pedro Gomes",
+        "isStateCapital": false
+    }, {
+        "name": "Ponta Por\u00e3",
+        "isStateCapital": false
+    }, {
+        "name": "Porto Murtinho",
+        "isStateCapital": false
+    }, {
+        "name": "Ribas do Rio Pardo",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Brilhante",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Negro",
+        "isStateCapital": false
+    }, {
+        "name": "Rio Verde de Mato Grosso",
+        "isStateCapital": false
+    }, {
+        "name": "Rochedo",
+        "isStateCapital": false
+    }, {
+        "name": "Santa Rita do Pardo",
+        "isStateCapital": false
+    }, {
+        "name": "S\u00e3o Gabriel do Oeste",
+        "isStateCapital": false
+    }, {
+        "name": "Selv\u00edria",
+        "isStateCapital": false
+    }, {
+        "name": "Sete Quedas",
+        "isStateCapital": false
+    }, {
+        "name": "Sidrol\u00e2ndia",
+        "isStateCapital": false
+    }, {
+        "name": "Sonora",
+        "isStateCapital": false
+    }, {
+        "name": "Tacuru",
+        "isStateCapital": false
+    }, {
+        "name": "Taquarussu",
+        "isStateCapital": false
+    }, {
+        "name": "Terenos",
+        "isStateCapital": false
+    }, {
+        "name": "Tr\u00eas Lagoas",
+        "isStateCapital": false
+    }, {
+        "name": "Vicentina",
+        "isStateCapital": false
+    }]
+}]

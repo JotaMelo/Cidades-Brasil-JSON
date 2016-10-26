@@ -1,0 +1,424 @@
+[{
+    "name": "Acorizal",
+    "isStateCapital": false
+}, {
+    "name": "\u00c1gua Boa",
+    "isStateCapital": false
+}, {
+    "name": "Alta Floresta",
+    "isStateCapital": false
+}, {
+    "name": "Alto Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "Alto Boa Vista",
+    "isStateCapital": false
+}, {
+    "name": "Alto Gar\u00e7as",
+    "isStateCapital": false
+}, {
+    "name": "Alto Paraguai",
+    "isStateCapital": false
+}, {
+    "name": "Alto Taquari",
+    "isStateCapital": false
+}, {
+    "name": "Apiac\u00e1s",
+    "isStateCapital": false
+}, {
+    "name": "Araguaiana",
+    "isStateCapital": false
+}, {
+    "name": "Araguainha",
+    "isStateCapital": false
+}, {
+    "name": "Araputanga",
+    "isStateCapital": false
+}, {
+    "name": "Aren\u00e1polis",
+    "isStateCapital": false
+}, {
+    "name": "Aripuan\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Bar\u00e3o de Melga\u00e7o",
+    "isStateCapital": false
+}, {
+    "name": "Barra do Bugres",
+    "isStateCapital": false
+}, {
+    "name": "Barra do Gar\u00e7as",
+    "isStateCapital": false
+}, {
+    "name": "Bom Jesus do Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "Brasnorte",
+    "isStateCapital": false
+}, {
+    "name": "C\u00e1ceres",
+    "isStateCapital": false
+}, {
+    "name": "Campin\u00e1polis",
+    "isStateCapital": false
+}, {
+    "name": "Campo Novo do Parecis",
+    "isStateCapital": false
+}, {
+    "name": "Campo Verde",
+    "isStateCapital": false
+}, {
+    "name": "Campos de J\u00falio",
+    "isStateCapital": false
+}, {
+    "name": "Canabrava do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Canarana",
+    "isStateCapital": false
+}, {
+    "name": "Carlinda",
+    "isStateCapital": false
+}, {
+    "name": "Castanheira",
+    "isStateCapital": false
+}, {
+    "name": "Chapada dos Guimar\u00e3es",
+    "isStateCapital": false
+}, {
+    "name": "Cl\u00e1udia",
+    "isStateCapital": false
+}, {
+    "name": "Cocalinho",
+    "isStateCapital": false
+}, {
+    "name": "Col\u00edder",
+    "isStateCapital": false
+}, {
+    "name": "Colniza",
+    "isStateCapital": false
+}, {
+    "name": "Comodoro",
+    "isStateCapital": false
+}, {
+    "name": "Confresa",
+    "isStateCapital": false
+}, {
+    "name": "Conquista D'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Cotrigua\u00e7u",
+    "isStateCapital": false
+}, {
+    "name": "Cuiab\u00e1",
+    "isStateCapital": true
+}, {
+    "name": "Curvel\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Denise",
+    "isStateCapital": false
+}, {
+    "name": "Diamantino",
+    "isStateCapital": false
+}, {
+    "name": "Dom Aquino",
+    "isStateCapital": false
+}, {
+    "name": "Feliz Natal",
+    "isStateCapital": false
+}, {
+    "name": "Figueir\u00f3polis D'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Ga\u00facha do Norte",
+    "isStateCapital": false
+}, {
+    "name": "General Carneiro",
+    "isStateCapital": false
+}, {
+    "name": "Gl\u00f3ria D'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Guarant\u00e3 do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Guiratinga",
+    "isStateCapital": false
+}, {
+    "name": "Indiava\u00ed",
+    "isStateCapital": false
+}, {
+    "name": "Ipiranga do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Itanhang\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Ita\u00faba",
+    "isStateCapital": false
+}, {
+    "name": "Itiquira",
+    "isStateCapital": false
+}, {
+    "name": "Jaciara",
+    "isStateCapital": false
+}, {
+    "name": "Jangada",
+    "isStateCapital": false
+}, {
+    "name": "Jauru",
+    "isStateCapital": false
+}, {
+    "name": "Juara",
+    "isStateCapital": false
+}, {
+    "name": "Ju\u00edna",
+    "isStateCapital": false
+}, {
+    "name": "Juruena",
+    "isStateCapital": false
+}, {
+    "name": "Juscimeira",
+    "isStateCapital": false
+}, {
+    "name": "Lambari D'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Lucas do Rio Verde",
+    "isStateCapital": false
+}, {
+    "name": "Luciara",
+    "isStateCapital": false
+}, {
+    "name": "Marcel\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Matup\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Mirassol d'Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Nobres",
+    "isStateCapital": false
+}, {
+    "name": "Nortel\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Nossa Senhora do Livramento",
+    "isStateCapital": false
+}, {
+    "name": "Nova Bandeirantes",
+    "isStateCapital": false
+}, {
+    "name": "Nova Brasil\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Nova Cana\u00e3 do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Nova Guarita",
+    "isStateCapital": false
+}, {
+    "name": "Nova Lacerda",
+    "isStateCapital": false
+}, {
+    "name": "Nova Maril\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Nova Maring\u00e1",
+    "isStateCapital": false
+}, {
+    "name": "Nova Monte Verde",
+    "isStateCapital": false
+}, {
+    "name": "Nova Mutum",
+    "isStateCapital": false
+}, {
+    "name": "Nova Nazar\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Nova Ol\u00edmpia",
+    "isStateCapital": false
+}, {
+    "name": "Nova Santa Helena",
+    "isStateCapital": false
+}, {
+    "name": "Nova Ubirat\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Nova Xavantina",
+    "isStateCapital": false
+}, {
+    "name": "Novo Horizonte do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Novo Mundo",
+    "isStateCapital": false
+}, {
+    "name": "Novo Santo Ant\u00f4nio",
+    "isStateCapital": false
+}, {
+    "name": "Novo S\u00e3o Joaquim",
+    "isStateCapital": false
+}, {
+    "name": "Parana\u00edta",
+    "isStateCapital": false
+}, {
+    "name": "Paranatinga",
+    "isStateCapital": false
+}, {
+    "name": "Pedra Preta",
+    "isStateCapital": false
+}, {
+    "name": "Peixoto de Azevedo",
+    "isStateCapital": false
+}, {
+    "name": "Planalto da Serra",
+    "isStateCapital": false
+}, {
+    "name": "Pocon\u00e9",
+    "isStateCapital": false
+}, {
+    "name": "Pontal do Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "Ponte Branca",
+    "isStateCapital": false
+}, {
+    "name": "Pontes e Lacerda",
+    "isStateCapital": false
+}, {
+    "name": "Porto Alegre do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Porto dos Ga\u00fachos",
+    "isStateCapital": false
+}, {
+    "name": "Porto Esperidi\u00e3o",
+    "isStateCapital": false
+}, {
+    "name": "Porto Estrela",
+    "isStateCapital": false
+}, {
+    "name": "Poxor\u00e9o",
+    "isStateCapital": false
+}, {
+    "name": "Primavera do Leste",
+    "isStateCapital": false
+}, {
+    "name": "Quer\u00eancia",
+    "isStateCapital": false
+}, {
+    "name": "Reserva do Caba\u00e7al",
+    "isStateCapital": false
+}, {
+    "name": "Ribeir\u00e3o Cascalheira",
+    "isStateCapital": false
+}, {
+    "name": "Ribeir\u00e3ozinho",
+    "isStateCapital": false
+}, {
+    "name": "Rio Branco",
+    "isStateCapital": false
+}, {
+    "name": "Rondol\u00e2ndia",
+    "isStateCapital": false
+}, {
+    "name": "Rondon\u00f3polis",
+    "isStateCapital": false
+}, {
+    "name": "Ros\u00e1rio Oeste",
+    "isStateCapital": false
+}, {
+    "name": "Salto do C\u00e9u",
+    "isStateCapital": false
+}, {
+    "name": "Santa Carmem",
+    "isStateCapital": false
+}, {
+    "name": "Santa Cruz do Xingu",
+    "isStateCapital": false
+}, {
+    "name": "Santa Rita do Trivelato",
+    "isStateCapital": false
+}, {
+    "name": "Santa Terezinha",
+    "isStateCapital": false
+}, {
+    "name": "Santo Afonso",
+    "isStateCapital": false
+}, {
+    "name": "Santo Ant\u00f4nio do Leste",
+    "isStateCapital": false
+}, {
+    "name": "Santo Ant\u00f4nio do Leverger",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o F\u00e9lix do Araguaia",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Povo",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Rio Claro",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 do Xingu",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Jos\u00e9 dos Quatro Marcos",
+    "isStateCapital": false
+}, {
+    "name": "S\u00e3o Pedro da Cipa",
+    "isStateCapital": false
+}, {
+    "name": "Sapezal",
+    "isStateCapital": false
+}, {
+    "name": "Serra Nova Dourada",
+    "isStateCapital": false
+}, {
+    "name": "Sinop",
+    "isStateCapital": false
+}, {
+    "name": "Sorriso",
+    "isStateCapital": false
+}, {
+    "name": "Tabapor\u00e3",
+    "isStateCapital": false
+}, {
+    "name": "Tangar\u00e1 da Serra",
+    "isStateCapital": false
+}, {
+    "name": "Tapurah",
+    "isStateCapital": false
+}, {
+    "name": "Terra Nova do Norte",
+    "isStateCapital": false
+}, {
+    "name": "Tesouro",
+    "isStateCapital": false
+}, {
+    "name": "Torixor\u00e9u",
+    "isStateCapital": false
+}, {
+    "name": "Uni\u00e3o do Sul",
+    "isStateCapital": false
+}, {
+    "name": "Vale de S\u00e3o Domingos",
+    "isStateCapital": false
+}, {
+    "name": "V\u00e1rzea Grande",
+    "isStateCapital": false
+}, {
+    "name": "Vera",
+    "isStateCapital": false
+}, {
+    "name": "Vila Bela da Sant\u00edssima Trindade",
+    "isStateCapital": false
+}, {
+    "name": "Vila Rica",
+    "isStateCapital": false
+}]
